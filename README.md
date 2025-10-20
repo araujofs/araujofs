@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&text=Arthur%20Felipe&animation=fadeIn&fontColor=c9119e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&text=Arthur%20Felipe&animation=fadeIn&fontColor=1fc29e"/>
 
 Eu sou Arthur Felipe, desenvolvedor web em formação e apaixonado por programação. <br>
 Meu primeiro contato com esse mundo foi no ensino médio ao fazer um curso técnico e desde então não largo mais os estudos na área. <br>
@@ -8,8 +8,8 @@ Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vas
 ## Stats 🔢🎲
 <div align="center">
   <div style="display: flex">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afraujo&layout=compact&langs_count=10&hide_border=true&theme=omni&card_width=400" width="500px" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=afraujo&theme=omni&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujofs&layout=compact&langs_count=10&hide_border=true&theme=gotham&card_width=400" width="500px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=araujofs&theme=gotham&hide_border=true" />
   </div>
 </div>
 
@@ -35,13 +35,13 @@ Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vas
 ## Alguns projetos ⌨️👨‍💻
 <div align="center">
   <div style="display: flex">
-    <a href="https://github.com/afraujo/si-activities"><img src="https://github-readme-stats.vercel.app/api/pin/?username=afraujo&repo=si-activities&theme=omni&card_width=350&hide_border=true"></a>
-    <a href="https://github.com/afraujo/elections-py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=afraujo&repo=elections-py&theme=omni&card_width=350&hide_border=true"></a>
-    <a href="https://github.com/afraujo/si-activities-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=afraujo&repo=si-activities-api&theme=omni&card_width=350&hide_border=true"></a>
-    <a href="https://github.com/afraujo/crud-spring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=afraujo&repo=crud-spring&theme=omni&card_width=350&hide_border=true"></a>
-    <a href="https://github.com/afraujo/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=afraujo&repo=portfolio&theme=omni&card_width=350&hide_border=true"></a>
-    <a href="https://github.com/afraujo/rocket-spring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=afraujo&repo=rocket-spring&theme=omni&card_width=350&hide_border=true"></a>
+    <a href="https://github.com/araujofs/si-activities"><img src="https://github-readme-stats.vercel.app/api/pin/?username=araujofs&repo=si-activities&theme=gotham&card_width=350&hide_border=true"></a>
+    <a href="https://github.com/araujofs/elections-py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=araujofs&repo=elections-py&theme=gotham&card_width=350&hide_border=true"></a>
+    <a href="https://github.com/araujofs/si-activities-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=araujofs&repo=si-activities-api&theme=gotham&card_width=350&hide_border=true"></a>
+    <a href="https://github.com/araujofs/crud-spring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=araujofs&repo=crud-spring&theme=gotham&card_width=350&hide_border=true"></a>
+    <a href="https://github.com/araujofs/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=araujofs&repo=portfolio&theme=gotham&card_width=350&hide_border=true"></a>
+    <a href="https://github.com/araujofs/rocket-spring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=araujofs&repo=rocket-spring&theme=gotham&card_width=350&hide_border=true"></a>
   </div>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=c9119e&section=footer&fontColor=c9119e&fontSize=50&textBg=false&reversal=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1fc29e&section=footer&fontColor=1fc29e&fontSize=50&textBg=false&reversal=false"/>
