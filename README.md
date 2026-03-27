@@ -15,12 +15,12 @@ Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vas
 
 ## Linguagens e Tecnologias 💻🌐
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-ff4C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Next](https://img.shields.io/badge/Next-5678d5?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-fd7231?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/Go-1928EC?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-347823?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
 
 ## Contatos 📱☎️
@@ -31,17 +31,5 @@ Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vas
   <a href="mailto:arthurfelipe5567@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 </div>
 <br>
-
-## Alguns projetos ⌨️👨‍💻
-<div align="center">
-  <div style="display: flex">
-    <a href="https://github.com/araujofs/si-activities"><img src="https://github-readme-stats.vercel.app/api/pin/?username=araujofs&repo=si-activities&theme=gotham&card_width=350&hide_border=true"></a>
-    <a href="https://github.com/araujofs/elections-py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=araujofs&repo=elections-py&theme=gotham&card_width=350&hide_border=true"></a>
-    <a href="https://github.com/araujofs/si-activities-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=araujofs&repo=si-activities-api&theme=gotham&card_width=350&hide_border=true"></a>
-    <a href="https://github.com/araujofs/crud-spring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=araujofs&repo=crud-spring&theme=gotham&card_width=350&hide_border=true"></a>
-    <a href="https://github.com/araujofs/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=araujofs&repo=portfolio&theme=gotham&card_width=350&hide_border=true"></a>
-    <a href="https://github.com/araujofs/rocket-spring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=araujofs&repo=rocket-spring&theme=gotham&card_width=350&hide_border=true"></a>
-  </div>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1fc29e&section=footer&fontColor=1fc29e&fontSize=50&textBg=false&reversal=false"/>
