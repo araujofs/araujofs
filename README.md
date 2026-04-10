@@ -8,7 +8,7 @@ Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vas
 ## Stats 🔢🎲
 <div align="center">
   <div style="display: flex">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujofs&layout=compact&langs_count=10&hide_border=true&theme=gotham&card_width=400" width="500px" />
+    <img src="./profile/stats.svg" width="500px" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=araujofs&theme=gotham&hide_border=true" />
   </div>
 </div>
