@@ -11,10 +11,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate stats card
+      - name: Generate top-langs card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: stats
+          card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&hide_border=true&theme=gotham
           path: profile/stats.svg
           token: ${{ secrets.GRS_PAT }}
